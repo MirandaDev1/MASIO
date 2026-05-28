@@ -1,0 +1,62 @@
+{
+  "acoes": {
+    "abrir": {
+      "sinonimos": [
+        "abrir",
+        "iniciar",
+        "rodar",
+        "executar",
+        "lançar"
+      ],
+      "comando_base": "abrir_app"
+    },
+    "fechar": {
+      "sinonimos": [
+        "fechar",
+        "encerrar",
+        "sair",
+        "matar",
+        "parar"
+      ],
+      "comando_base": "fechar_app"
+    },
+    "verificar_hora": {
+      "sinonimos": [
+        "que horas são",
+        "hora",
+        "mostrar hora",
+        "ver hora",
+        "horário"
+      ],
+      "comando_base": "verificar_hora"
+    },
+    "listar_arquivos": {
+      "sinonimos": [
+        "listar arquivos",
+        "mostrar arquivos",
+        "ver arquivos",
+        "explorar pasta",
+        "abrir pasta"
+      ],
+      "comando_base": "listar_arquivos"
+    },
+    "encerrar_processo": {
+      "sinonimos": [
+        "encerrar processo",
+        "finalizar processo",
+        "matar processo",
+        "parar processo",
+        "fechar processo"
+      ],
+      "comando_base": "encerrar_processo"
+    }
+  },
+  "apps": {
+    "spotify": "spotify.exe",
+    "chrome": "chrome.exe",
+    "discord": "Discord.exe",
+    "whatsapp": "WhatsApp.exe",
+    "bloco_de_notas": "notepad.exe"
+  }
+}
+``` [❶](code://python)
